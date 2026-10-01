@@ -1,0 +1,4 @@
+# Demo: pages carry noindex. At go-live remove noindex and the X-Robots-Tag header.
+User-agent: *
+Allow: /
+Sitemap: https://elektro-ostfildern-demo.vercel.app/sitemap.xml
